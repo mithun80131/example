@@ -1,4 +1,4 @@
-baseurl = "https://mithun80131.io/example"
+baseurl = "http://mithun80131.io/example"
 title = "Mithun"
 publishDir = "docs"
 theme = "hugo-coder"
